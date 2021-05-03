@@ -10,3 +10,5 @@
 * [멀티프로세스, 멀티스레드, 멀티프로그래밍 / 멀티프로세스 멀티스레드에서 데이터 통신](https://github.com/seonyoung169/CSInterviewQuestions/issues/4)
 * [교착상태, DeadLock](https://github.com/seonyoung169/CSInterviewQuestions/issues/5)
 * [시스템 콜, System Call](https://github.com/seonyoung169/CSInterviewQuestions/issues/6)
+* [CPU 스케쥴링](https://github.com/seonyoung169/CSInterviewQuestions/issues/7)
+* [파일 시스템](https://github.com/seonyoung169/CSInterviewQuestions/issues/8)
