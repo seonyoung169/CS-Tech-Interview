@@ -12,3 +12,8 @@
 * [인터럽트와 시스템 콜, Interrupt & System Call](https://github.com/seonyoung169/CSInterviewQuestions/issues/6)
 * [CPU 스케쥴링](https://github.com/seonyoung169/CSInterviewQuestions/issues/7)
 * [파일 시스템](https://github.com/seonyoung169/CSInterviewQuestions/issues/8)
+
+
+## Desing Pattern
+* [싱글톤 패턴](https://github.com/seonyoung169/CSInterviewQuestions/issues/9)
+* [어댑터 패턴](https://github.com/seonyoung169/CSInterviewQuestions/issues/10)
