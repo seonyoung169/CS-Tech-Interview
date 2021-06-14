@@ -24,4 +24,11 @@
 * [데코레이터 패턴](https://github.com/seonyoung169/CSInterviewQuestions/issues/15)
 * [옵저버 패턴](https://github.com/seonyoung169/CSInterviewQuestions/issues/16)
 * [컴포지트 패턴](https://github.com/seonyoung169/CSInterviewQuestions/issues/17)
+* [커맨드 패턴](https://github.com/seonyoung169/CSInterviewQuestions/issues/18)
+* [브릿지 패턴](https://github.com/seonyoung169/CSInterviewQuestions/issues/19)
+* [퍼싸드 패턴](https://github.com/seonyoung169/CSInterviewQuestions/issues/20)
+* [프록시 패턴]((https://github.com/seonyoung169/CSInterviewQuestions/issues/21)
+* [프로토타입 패턴]((https://github.com/seonyoung169/CSInterviewQuestions/issues/22)
+* [상태 패턴]((https://github.com/seonyoung169/CSInterviewQuestions/issues/23)
+
 
