@@ -33,13 +33,13 @@
 
 
 ## Network
-* [OSI 7계층](https://github.com/seonyoung169/CSInterviewQuestions/issues/24)
-* [TCP / UDP 와 Segment](https://github.com/seonyoung169/CSInterviewQuestions/issues/25)
-* [3-way 4-way Handshaking](https://github.com/seonyoung169/CSInterviewQuestions/issues/26)
-* [TCP 흐름제어, 혼잡제어, 오류제어](https://github.com/seonyoung169/CSInterviewQuestions/issues/27)
-* [대칭키 / 공개키 + SSL](https://github.com/seonyoung169/CSInterviewQuestions/issues/28)
-* [HTTP / HTTPS](https://github.com/seonyoung169/CSInterviewQuestions/issues/29)
-* [쿠키 / 세션](https://github.com/seonyoung169/CSInterviewQuestions/issues/30)
-* [블로킹 / 논블로킹](https://github.com/seonyoung169/CSInterviewQuestions/issues/31)
-* [DNS](https://github.com/seonyoung169/CSInterviewQuestions/issues/32)
-* [Restful / Rest API](https://github.com/seonyoung169/CSInterviewQuestions/issues/33)
+* [OSI 7계층](https://github.com/seonyoung169/CSInterviewQuestions/issues/)
+* [TCP / UDP 와 Segment](https://github.com/seonyoung169/CSInterviewQuestions/issues/)
+* [3-way 4-way Handshaking](https://github.com/seonyoung169/CSInterviewQuestions/issues/)
+* [TCP 흐름제어, 혼잡제어, 오류제어](https://github.com/seonyoung169/CSInterviewQuestions/issues/)
+* [대칭키 / 공개키 + SSL](https://github.com/seonyoung169/CSInterviewQuestions/issues/)
+* [HTTP / HTTPS](https://github.com/seonyoung169/CSInterviewQuestions/issues/)
+* [쿠키 / 세션](https://github.com/seonyoung169/CSInterviewQuestions/issues/25)
+* [블로킹 / 논블로킹](https://github.com/seonyoung169/CSInterviewQuestions/issues/26)
+* [DNS](https://github.com/seonyoung169/CSInterviewQuestions/issues/24)
+* [Restful / Rest API](https://github.com/seonyoung169/CSInterviewQuestions/issues/)
