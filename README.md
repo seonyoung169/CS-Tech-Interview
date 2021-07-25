@@ -1,6 +1,6 @@
 
 # CSInterviewQuestions
-#### 매주 수,금 함께 내용 공유합니다! 선영 고운 판교 가자~!
+#### 선영 고운 판교 가자~! ☄️
 
 
 ## Operating System
